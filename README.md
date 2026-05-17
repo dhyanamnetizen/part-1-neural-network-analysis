@@ -1,5 +1,3 @@
-# part-1-neural-network-analysis
-
 # Part 1: Neural Network Fundamentals and Training Behavior Analysis
 
 This repository contains the neural network implementation and core analytical experiments designed to evaluate customer churn trends using structured corporate records.
