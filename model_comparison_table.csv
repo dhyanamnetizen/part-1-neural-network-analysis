@@ -1,0 +1,4 @@
+Experiment,Train Loss,Train Accuracy,Test Loss,Test Accuracy,False Positives,True Positives
+"Exp 1: Baseline (16 Nodes, ReLU)",0.0649,0.9844,0.0705,0.985,0,0
+"Exp 2: Deeper (32->16 Nodes, High LR)",0.0012,1.0,0.2065,0.9775,4,1
+"Exp 3: Alternative (16 Nodes, Tanh, Low LR)",0.0856,0.9844,0.0842,0.985,0,0
